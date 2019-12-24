@@ -2,7 +2,7 @@
 Arabic Phonetic AZERTY Keyboard Layout
 ======================================
 
-ََتخطيط لوحة مفاتيح لنظام الماك يدعم لوحة المفاتيح "AZERTY" يقابل كل حرف مع الزر الأقرب لفظا.   &#x202b;
+    تخطيط لوحة المفاتيح لنظام الماك يقابل كل حرف مع الزر الأقرب لفظا 
 
 A phonetic keyboard layout for Mac OS with AZERTY keyboard, makes it easier to type in arabic with an AZERTY keyboard.
 
@@ -11,6 +11,12 @@ Inspired by:
 * Lexilogos online arabic keyboard: https://www.lexilogos.com/clavier/araby.htm
 
 Made using [Ukelele](http://software.sil.org/ukelele/) for Mac os.
+
+What you need to remember:
+* `^` → ء
+* `^ + a / i / w / y` → ئ ؤ إ أ
+* `^ + t / d / g / ...` → غ ذ ث
+* `opt + a / i / w / s` → سكون / كسرة / ضمة / فتحة
 
 لائحة الحروف
 -----------
