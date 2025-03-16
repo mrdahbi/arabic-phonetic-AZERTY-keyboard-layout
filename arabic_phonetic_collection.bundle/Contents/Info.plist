@@ -3,17 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.arabicphoneticv2</string>
+	<string>org.sil.ukelele.keyboardlayout.arabicphoneticazerty</string>
 	<key>CFBundleName</key>
-	<string>arabic_phonetic_collection_V2</string>
+	<string>arabic_phonetic_collection</string>
 	<key>CFBundleVersion</key>
-	<string>2.0.6</string>
+	<string>3.0</string>
 	<key>KLInfo_Arabic Phonetic AZERTY</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
+		<key>TISIconIsTemplate</key>
+		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.arabicphoneticv2.arabicphoneticazerty</string>
+		<string>org.sil.ukelele.keyboardlayout.arabicphoneticazerty.arabicphoneticazerty</string>
 		<key>TISIntendedLanguage</key>
 		<string>ar</string>
 	</dict>
