@@ -2,7 +2,7 @@
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 3.4.0.300 on 2025-03-03 at 09:31 (GMT)-->
 <!--لا تنسونا من صالح دعائكم-->
-<!--Last edited by Ukelele version 415 on 2025-03-14 at 23:05 (GMT)-->
+<!--Last edited by Ukelele version 415 on 2025-03-16 at 06:25 (GMT)-->
 <keyboard group="126" id="-21808" name="Arabic Phonetic AZERTY" maxout="4">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
@@ -374,7 +374,7 @@
             <key code="12" output="Æ"/>
             <key code="13" output="Å"/>
             <key code="14" output="Ê"/>
-            <key code="15" output="﷼‎"/>
+            <key code="15" output="﷼"/>
             <key code="16" output="Ÿ"/>
             <key code="17" output="™"/>
             <key code="18" output="´"/>
